@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256517547772",
+    "firebase_url": "https://aplikasi-quotes-default-rtdb.firebaseio.com",
+    "project_id": "aplikasi-quotes",
+    "storage_bucket": "aplikasi-quotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256517547772:android:9974ca75354e22a856d979",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiquote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XBoRcbH4N2vSUn95gq3RtaWdaQYzHHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
